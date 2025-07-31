@@ -3,3 +3,4 @@
 .venv
 credentials/*
 !credentials/readme.txt
+src/utils/last_live_match.json
