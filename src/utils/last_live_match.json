@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "data": {
+    "lastId": 2642228,
+    "type": 3,
+    "status": "idle",
+    "time": 0,
+    "players": [
+      {
+        "uuid": "c81a44e0c18544c29d1a93e0362b7777",
+        "nickname": "Snakezy",
+        "roleType": 0,
+        "eloRate": 1689,
+        "eloRank": 120,
+        "country": "pl"
+      },
+      {
+        "uuid": "7c92678742eb4e819f3122017697ae3d",
+        "nickname": "hackingnoises",
+        "roleType": 3,
+        "eloRate": null,
+        "eloRank": null,
+        "country": "hk"
+      },
+      {
+        "uuid": "263a98797c8a4625b11bb08811ba7431",
+        "nickname": "Queenkac",
+        "roleType": 1,
+        "eloRate": null,
+        "eloRank": null,
+        "country": null
+      }
+    ],
+    "spectators": [
+      {
+        "uuid": "b9e1fce6df434a0690fa5da1d842ed11",
+        "nickname": "planetvoid",
+        "roleType": 3,
+        "eloRate": 936,
+        "eloRank": null,
+        "country": "us"
+      }
+    ],
+    "timelines": [],
+    "completions": [],
+    "data": {
+      "score": {
+        "b9e1fce6df434a0690fa5da1d842ed11": 0,
+        "c81a44e0c18544c29d1a93e0362b7777": 0,
+        "7c92678742eb4e819f3122017697ae3d": 0,
+        "263a98797c8a4625b11bb08811ba7431": 0
+      }
+    }
+  }
+}

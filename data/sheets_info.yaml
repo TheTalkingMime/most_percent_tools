@@ -1,0 +1,6 @@
+spreadsheet-url: https://docs.google.com/spreadsheets/d/1HNnSHvuCthZobXtxiV2COJqwSsA0actEZ6JV2M67BXQ/edit?gid=1717509582#gid=1717509582
+credentials-path: credentials/credentials.json
+sheet-info:
+  source_location: A
+  first_player_col: E
+  last_player_col: J
